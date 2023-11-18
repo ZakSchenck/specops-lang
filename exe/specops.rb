@@ -1,0 +1,2 @@
+require 'specops'
+Specops.main
